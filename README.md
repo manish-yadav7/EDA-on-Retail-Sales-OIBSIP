@@ -7,13 +7,13 @@ This project is an exploratory data analysis (EDA) on a **retail sales dataset**
 
 ## 📂 Project Structure
 
-- **[EDA on Retail Sales Dataset.ipynb](./EDA%20on%20Retail%20Sales%20Dataset.ipynb)**: This Jupyter Notebook includes the complete analysis, featuring:
+   This Jupyter Notebook includes the complete analysis, featuring:
   - Data loading and cleaning.
   - Summary statistics and initial exploration.
   - Visualization of sales trends and customer segments.
   - Key insights and interpretations.
   
-- **[retail_sales_dataset.csv](./retail_sales_dataset.csv)**: The retail sales dataset containing:
+  ** The retail sales dataset containing:
   - Order details
   - Customer demographics
   - Sales channels (Amazon, Flipkart, Myntra)
@@ -61,7 +61,7 @@ jupyter notebook "EDA on Retail Sales Dataset.ipynb"
 Execute the Analysis
 Run the cells in the notebook to reproduce the analysis.
 
-📝 Dataset Overview
+## 📝 Dataset Overview
 Field	Description
 Order ID	Unique identifier for each order.
 Customer ID	Unique identifier for each customer.
@@ -73,12 +73,12 @@ Amount	Total sales amount for the order.
 Ship City	City where the product was shipped.
 Ship State	State where the product was shipped.
 Ship Country	Country where the product was shipped.
-📊 Key Insights & Findings
+## 📊 Key Insights & Findings
 Top Product Categories: Analysis of best-selling products.
 Customer Demographics: Segmentation of customers by age and gender.
 Channel-Wise Performance: Comparison of sales across multiple channels.
 Sales Trends Over Time: Insights into how sales fluctuate monthly and seasonally.
-📅 Time-Based Analysis
+## 📅 Time-Based Analysis
 Visualizing sales over time helped uncover critical patterns, such as:
 
 📈 Peak sales during holiday seasons.
@@ -89,10 +89,10 @@ Mapping sales data by location provided insights into:
 
 Top Sales States: States contributing the highest revenue.
 Shipping Patterns: Areas with higher order volumes and faster deliveries.
-🔮 Conclusion
+## 🔮 Conclusion
 This EDA project showcases how data-driven insights can lead to informed business decisions, optimize marketing strategies, and improve customer relationship management (CRM). By understanding trends, patterns, and customer preferences, businesses can tailor their offerings to meet market demand.
 
-📋 Requirements
+## 📋 Requirements
 Ensure the following libraries are installed:
 
 bash
@@ -100,7 +100,7 @@ Always show details
 
 Copy code
 pip install pandas matplotlib seaborn jupyter
-🎨 Visualizations
+## 🎨 Visualizations
 
 Matplotlib and Seaborn are used extensively to create intuitive visualizations for:
 
@@ -112,5 +112,5 @@ Customer segmentation 👥
 📦 Channel Preferences: Sales performance across different channels, showing Amazon and Flipkart as dominant platforms.
 📊 Geographical Trends: Certain states consistently contribute to higher sales.
 📈 Time-based Sales: Peak sales occur during holiday seasons, with seasonal trends evident across categories.
-🛡️ License
+## 🛡️ License
 This project is licensed under the MIT License - see the LICENSE file for details. """
