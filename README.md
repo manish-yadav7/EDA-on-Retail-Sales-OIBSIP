@@ -1,8 +1,4 @@
-# Define the path for the README file to save
-readme_file_path = os.path.join(project_dir, 'README.md')
 
-# Content for the README.md file
-readme_content = """
 # 🛍️ EDA on Retail Sales
 
 ![Retail Sales Banner](https://img.icons8.com/color/452/shop.png)
