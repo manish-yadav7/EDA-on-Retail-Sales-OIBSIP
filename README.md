@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🛍️ EDA on Retail Sales
 
 ![Retail Sales Banner](https://img.icons8.com/color/452/shop.png)
